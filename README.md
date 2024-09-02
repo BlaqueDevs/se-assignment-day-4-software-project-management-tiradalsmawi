@@ -11,6 +11,7 @@ Effective cost control helps keep a software project within budget, ensuring fin
 Agile:
 -  Advantages: Flexible, iterative, and adaptive to changes.
 -  Disadvantages: Less predictable, potential for scope creep.
+  
 Waterfall:
 -  Advantages: Structured, predictable, and clear milestones.
 -  Disadvantages: Rigid, less adaptable to changes.
